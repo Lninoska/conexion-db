@@ -8,7 +8,7 @@ const pool = new Pool({
     password: process.env.DB_PASSWORD,
     port: process.env.DB_PORT
 })
-
+// CREATE DATABASE practica_db;
 
 // CREATE TABLE estudiantes (
 //     id SERIAL PRIMARY KEY,
